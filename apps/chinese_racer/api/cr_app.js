@@ -4,7 +4,7 @@ document.getElementById('signup-form').addEventListener('submit', async (event) 
     const email = document.getElementById('email').value;
     const username = document.getElementById('username').value;
     const password = document.getElementById('password').value;
-    const confirmPassword = document.getElementsById('confirm-password');
+    const confirmPassword = document.getElementById('confirm-password');
 
     const response = await fetch('http://localhost:4000/signup', {
         method: 'POST',
