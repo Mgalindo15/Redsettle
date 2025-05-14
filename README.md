@@ -1,2 +1,2 @@
-# Chinese Racer
-A single-player game to help users learn directional words in Chinese
+# Redsettle
+A collection of Language Learning games created by Matt Galindo
